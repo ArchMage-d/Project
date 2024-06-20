@@ -1,5 +1,5 @@
 Here's a video showing a working website.
-The website isn't finished though, it lacks the working login feature(even though it checks the compatibility between hashes) and deleting posts from the site. /n
+The website isn't finished though, it lacks the working login feature(even though it checks the compatibility between hashes) and deleting posts from the site. <br>
 Tech stack I used:
 - Express.js for backend,
 - React.js for frontend,
